@@ -5,3 +5,14 @@ b = 6
 c = a +b
 if c = 100 then
 print "find the a, b "&a, &b
+
+# adding from local -
+for i = 1 to 100
+	a = 5; a++
+	b = 6; b++
+	c = a + b
+	if c > 100 then
+	print "the circle is out of the requrest! please stop"
+	else
+	print "the circle time is i =" &i
+
