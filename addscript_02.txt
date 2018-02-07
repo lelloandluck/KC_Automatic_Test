@@ -3,3 +3,5 @@ dim a, b, c
 a =5
 b = 6
 c = a +b
+if c = 100 then
+print "find the a, b "&a, &b
